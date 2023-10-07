@@ -11,6 +11,7 @@ public class oneMoreTry {
             System.out.print("Enter third name- ");
             String c= sc.next();
             System.out.println(a + " " + b+" " + c);
+            System.out.println("that's it folks");
         }
 
 }
